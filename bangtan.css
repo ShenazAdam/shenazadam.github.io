@@ -1,0 +1,14 @@
+body {
+ background-color: violet;
+ font-family: lucida fax;
+ text-align: center;
+}
+h1 {
+background-color:black; color:purple;
+font-family: lucida handwriting;
+
+} 
+img {
+ border-radius: 50%;
+ width:200px;
+}
